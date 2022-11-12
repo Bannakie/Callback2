@@ -1,0 +1,17 @@
+
+average{
+  padding: 0;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+average p {
+  color: #333;
+  font-size: 16px;
+}
+
+<div id="average">
+  <p>The average is: 3</p>
+</div>
